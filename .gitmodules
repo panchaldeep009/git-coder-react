@@ -1,0 +1,3 @@
+[submodule "packages/react-monaco-editor"]
+	path = packages/react-monaco-editor
+	url = git@github.com:panchaldeep009/react-monaco-editor.git
